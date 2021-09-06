@@ -783,6 +783,11 @@ h4 {
     font-size: 18px;
 }
 
+.text-footer {
+    color: #000000!important;
+    font-weight: bold;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #000000!important;
